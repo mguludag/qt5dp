@@ -1,9 +1,9 @@
 # Qt Design Patterns
 
-    [Sources](https://sourcemaking.com/design_patterns)  
-    Simple solutions to common problems  
-    Can be C++ or Qt specific  
-    Just because a pattern exists does not mean you NEED to use it design patterns become code reuse  
+[Sources](https://sourcemaking.com/design_patterns)  
+Simple solutions to common problems  
+Can be C++ or Qt specific  
+Just because a pattern exists does not mean you NEED to use it design patterns become code reuse  
 
 ## • Classes – blue print for an object
 
