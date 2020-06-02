@@ -8,11 +8,11 @@ Just because a pattern exists does not mean you NEED to use it design patterns b
 ## • Classes – blue print for an object
 
 ◦ [SOLID](https://en.wikipedia.org/wiki/SOLID)  
-	▪ **S** = Single Responsibility Principle  
-	▪ **O** = Open-Closed Principle  
-	▪ **L** = Liskov Substitution Principle  
-	▪ **I** = Interface Segregation Principle  
-	▪ **D** = Dependency Inversion/Injection  
+    ▪ **S** = Single Responsibility Principle  
+    ▪ **O** = Open-Closed Principle  
+    ▪ **L** = Liskov Substitution Principle  
+    ▪ **I** = Interface Segregation Principle  
+    ▪ **D** = Dependency Inversion/Injection  
 ◦ Interfaces – contract between objects  
 ◦ Inheritance – re-susable code  
 ◦ Interface vs Inheritance  
@@ -171,10 +171,10 @@ Just because a pattern exists does not mean you NEED to use it design patterns b
 ## • Encryption – use OpenSSL
 
 ◦ Asymetric  
-	▪ public keys  
-	▪ private keys  
+    ▪ public keys  
+    ▪ private keys  
 ◦ Symetric  
-	▪ passwords, passphrases and keys  
+    ▪ passwords, passphrases and keys  
 ◦ Block Cyphers  
 ◦ AES 256 using OpenSSL  
 ◦ Storing passwords  
@@ -238,6 +238,6 @@ Just because a pattern exists does not mean you NEED to use it design patterns b
 ◦ Mac – admins  
 ◦ Android – permissions  
 ◦ processes – bash / cmd - qprocess  
-	▪ pinging a server  
-	▪ ns lookup  
-	▪ list processes  
+    ▪ pinging a server  
+    ▪ ns lookup  
+    ▪ list processes  
